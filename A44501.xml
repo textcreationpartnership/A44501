@@ -1,0 +1,1738 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers proved deceivers and such as people ought not to listen to, or follow, but to account accursed, in the management of a charge formerly given out against them to that effect, by J. Horne, preacher of the gospel at South-Lin in Norfolke. Which charge was managed and made good by him against George Whitehead, in the chancel of South-Lin, before some hundreds of people, Jan. 13. 1659. to the great baffling of the said George Whitehead and his party, through the merciful and gracious hand of the Lord appearing for his truth and servants therein, as is known to, and witnessed by the generality of the audience of understanding. Published as a warning to all to beware of the said people called Quakers, and their erroneous principles herein also in part discovered.</title>
+            <author>Horn, John, 1614-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44501</idno>
+            <idno type="STC">Wing H2807</idno>
+            <idno type="STC">ESTC R221604</idno>
+            <idno type="EEBO-CITATION">99832898</idno>
+            <idno type="PROQUEST">99832898</idno>
+            <idno type="VID">37373</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37373)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2187:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers proved deceivers and such as people ought not to listen to, or follow, but to account accursed, in the management of a charge formerly given out against them to that effect, by J. Horne, preacher of the gospel at South-Lin in Norfolke. Which charge was managed and made good by him against George Whitehead, in the chancel of South-Lin, before some hundreds of people, Jan. 13. 1659. to the great baffling of the said George Whitehead and his party, through the merciful and gracious hand of the Lord appearing for his truth and servants therein, as is known to, and witnessed by the generality of the audience of understanding. Published as a warning to all to beware of the said people called Quakers, and their erroneous principles herein also in part discovered.</title>
+                  <author>Horn, John, 1614-1676.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for John Allen at the Rising-Sunne in Pauls Churchyard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno Dom. 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy stained and torn at end of text.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whitehead, George, 1636?-1723 --  Controversial literature --  Early works to 1800.</term>
+               <term>Quakers --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37373:1" rendition="simple:additions"/>
+            <p>THE QUAKERS Proved Deceivers, And ſuch as people ought not to liſten to, or follow, but to account Accurſed, IN THE Management of a Charge formerly given out againſt them to that effect, by J. <hi>Horne,</hi> Preacher of the Goſpel at <hi>South-Lin</hi> in <hi>Norfolke.</hi>
+            </p>
+            <p>Which Charge was managed and made good by him againſt <hi>George Whitehead,</hi> in the Chancel of <hi>South-Lin,</hi> before ſome Hundreds of People, <hi>Jan.</hi> 13. 1659. to the great baffling of the ſaid <hi>George Whitehead</hi> and his Party, through the merciful and gracious Hand of the Lord appearing for his Truth and Ser<g ref="char:EOLhyphen"/>vants therein, as is known to, and witneſſed by the generality of the Audi<g ref="char:EOLhyphen"/>ence of Underſtanding.</p>
+            <p>Publiſhed as a Warning to all to beware of the ſaid people called QUAKERS, and their erroneous Principles herein alſo in part diſcovered.</p>
+            <q>
+               <bibl>1 SAM. 2.2.</bibl>
+               <p>
+                  <hi>Talk no more ſo exceeding proudly, let not Arrogancy proceed out of your mouths, for the Lord is a God of Knowledge, by him Actions are weighed.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>LUK. 14.11.</bibl>
+               <p>
+                  <hi>For whoſoever exalteth himſelf ſhall be abaſed, but he that humbleth himſelf ſhall be exalted.</hi>
+               </p>
+            </q>
+            <p>LONDON, Printed for <hi>John Allen</hi> at the Riſing-Sunne in <hi>Pauls</hi> Church-Yard. <hi>Anno Dom,</hi> 1660.</p>
+         </div>
+         <div type="dispute">
+            <pb facs="tcp:37373:2"/>
+            <head>
+               <hi>The Occaſion of the enſuing Diſcourſe and Diſpute with</hi> George VVhitehead.</head>
+            <p>I. H. Meeting with <hi>George Fox</hi> accidentally, <hi>Octob. 4.</hi> and falling into diſecurſe with him, amongſt other things, told him he would prove him and the Quakers deceivers, and ſuch as people ought not to hear or follow, but to account accurſed, <hi>G. F.</hi> asked him if he would give it under his hand, <hi>I. H.</hi> ſaid, Yes, <hi>G. F.</hi> hidding him appoint time and place, he did ſo, appointing the Thurſday next following, or that preſent day in the Afternoon, being Tueſday, <hi>G. F.</hi> refuſed it, ſaying he was to go that day out of Town, but asked <hi>I. H</hi> if he would do it the next time they came to Town, which might be about a Fourt<g ref="char:EOLhyphen"/>night after, in caſe they gave him notice of their coming two or three dayes before, <hi>I. H.</hi> (having before engaged to a Friend in <hi>Lincolnſhire</hi> to go a journey to ſee him, and appointed him to meet him <hi>12,</hi> mile off his home <hi>Octob. 14.)</hi> told <hi>G. F.</hi> he could not nor would engage that, both becauſe he might be not well then, and becauſe if well, he might be out of Town, having engaged a journey, about ſuch time as he ſpoke of. But at any time when he ſhould be in Town, and well, when it might ſtand with his conveniencie, before a competent number of people, where he might be heard, he ſhould be ready to do it. To which purpoſe alſo the ſaid <hi>I. H.</hi> poſted up ſome Papers the ſame day, to warn people of them, charging them to the ſame effect as above, and adding that he ſhould be ready to make it good, when there to law<g ref="char:EOLhyphen"/>fully called, the 12th of the ſaid moneth notice was given to <hi>I. H.</hi> that <hi>George Fox</hi> was to come to Town the next day, and expected that <hi>I. H.</hi> ſhould make good his charge, <hi>I. H.</hi> replied that he could not do ſo, nor was engaged to it, being fore ingaged, a journey in which he had appointed his Friend to meet him, <hi>Octob. 14.</hi> and that that journey he had ſignified before to <hi>G. F.</hi> and thereupon poſitively had de<g ref="char:EOLhyphen"/>nied to engage himſelf to make good his ſaid charge at their next coming; and that he had publikely given notice of his being to go that journey in the Congregation, the Lords day before, as was notoriouſly known. They threatned then to post him up if he ſtayed not, as going away from it: Nevertheleſſe, <hi>I. H.</hi> to per<g ref="char:EOLhyphen"/>form his fore-ingagement to his friend, went his journey, and they (though he reminded <hi>G. F.</hi> in a Letter he left for him, of what had paſt between them, as above-related) coming to Town, <hi>viz. G. F.</hi> and <hi>G. W.</hi> not only aſperſed the ſaid <hi>I. H.</hi> as refuſing to ſtand to his charge against them, but alſo incivilly and unreaſonably in his abſence, poſted him as failing in his promiſe, and going away on purpoſe, their impudency, in which <hi>I. H.</hi> remonſtrated to the people, in Papers poſted up in Anſwer to theirs at his re<g ref="char:EOLhyphen"/>turn. [About <hi>Jan. 7. G. W.</hi> came to <hi>Lin,</hi> and about the <hi>10.</hi> or <hi>11.</hi> day provoked <hi>I. H</hi> by a Letter full of high vaunting Language, like <hi>Goliah,</hi> or one of the ſons of <hi>Anak,</hi> boaſting of the nature he was in, and what they could and ſhould do] to make good his charge againſt them, which after ſome Overtures of time and place, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at length agreed upon to be done in the Chancel of <hi>South-Lin,</hi> on <hi>Jan. 13.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="proof">
+            <pb n="1" facs="tcp:37373:2"/>
+            <head>The Charge Proved and Managed againſt him was thus.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eing come together into the Chancel of <hi>South-Lin,</hi> and places being by either of us, and our friends taken, after ſome Appeal to the Lord, and deſire of his Preſence for making out his truth, and giving teſtimony to it, and ſtopping the mouth of iniquity; The ſaid <hi>I. H.</hi> entred upon his charge or proof of it to this Purpoſe.</p>
+            <p>People, I am come hither to make good a Charge formerly laid by me againſt the people call'd Quakers, <hi>viz.</hi> to prove them to be Deceivers, and ſuch as people ought not to hear, or to follow, but to account them accurſed. I hope you will judge it but reaſonable, that I have liberty without interruption, to produce what I have to ſay by way of proof of it; which I ſhall deſire to obſerve this Method in.</p>
+            <p n="1">1. I ſhall ſhew that there are ſome people that we ought not to follow, but account ac<g ref="char:EOLhyphen"/>curſed, and who, or what manner of people they be. And then</p>
+            <p n="2">2. I ſhall in the Strength and Name of the Lord, (for I come not in my own ſtrength or name to do it) prove that the people called Quakers, (and amongſt them this <hi>George White<g ref="char:EOLhyphen"/>head</hi>) are ſuch people.</p>
+            <p>For the firſt, I ſhall deſire you to minde, <hi>Gal.</hi> 1.8, 9. <hi>For if we, or an Angel from Heaven preach another Goſpel (or preach unto you other) then that which we have preached unto you, let him be accurſed.</hi> To which we may joyne, 1 <hi>Cor</hi> 16.22. <hi>If any man love not the Lord Jeſus Chriſt, let him be Anathema Maranatha,</hi> Curſed, the Lord cometh, or at the coming of the Lord. And in 2 <hi>John</hi> 10. <hi>If any man come to you, and bring not this doctrine,</hi> (confeſſe not, or magnifie not Chriſt come in the fleſh,) <hi>receive him not to houſe, neither bid him God ſpeed, &amp;c.</hi> But I ſhall ob<g ref="char:EOLhyphen"/>ſerve ſome things from the firſt mentioned Scripture, <hi>viz. Gal.</hi> 1.8. <hi>If we or an Angel from Heaven.</hi> Where note, that we are not to receive any man upon his pretence of being an Apoſtle, or one ſent of God. Such as pretend to be ſo ſent, and to have ſeen or ſpoken with Chriſt, or to be immediately ſent of God, may be of thoſe that we are to account accurſed; for the Apoſtle ſays, <hi>If we,</hi> and again, <hi>If I Paul, preach another doctrine, &amp;c.</hi> (yea, and ſo in <hi>Rev.</hi> 2.2. we read of ſome that ſayd they were Apoſtles, and were not, but were found lyars.) Againe, it is not enough that men come as Angells from Heaven to induce us to receive them, it is no Angell like appearance, either in their excellent ſpeech, ſpeaking like Angells, vanting that they are in the Spirit and Power of God, nor any Angell like carriage in appearing hu<g ref="char:EOLhyphen"/>mility, holyneſſe, ſinleſneſſe, &amp;c. that ſhould preſently make us conclude ſuch, and ſuch men are of God, even ſuch alſo may be Perſons to be accounted accurſed by us. For even Satan himſelf is transformed into an Angell of light, and no marvaile if his Meſſengers, or Emiſſa<g ref="char:EOLhyphen"/>ries transforme themſelves into Miniſters of righteouſneſſe, as the Apoſtle ſayes. 2 <hi>Cor.</hi> 11.13, 14. theſe things then be not the certain characters to know men to be liſtened to, and re<g ref="char:EOLhyphen"/>ceived by, but according to their conformity to the Apoſtles doctrine. If any pretending ne<g ref="char:EOLhyphen"/>ver ſuch immediate authority from God, or have never ſuch an Angell like ſpeech, and carri<g ref="char:EOLhyphen"/>age, yet agree not to, or ſpeak not the language, and Doctrine delivered by the Apoſtles for the obedience of faith to, and among all Nations, we are not to liſten to, or follow him, but account him accurſed. ſuch be the Perſons to be ſo accounted by us. I ſhould nextly then inquire into the Doctrine or Goſpel preached by the Apoſtles, and ſo bring theſe men to the trial of that Touchſtone, but I ſhall not enlarge upon that, becauſe I would be brief, and give him time to anſwer for himſelf. Only I ſhall pitch upon two Heads of Trials. 1. Touching the manner of the coming of the true Prophets and Apoſtles, in the way of their doctrine And 2. The matter delivered by them therein.</p>
+            <p>For the manner of their coming ſhall note,</p>
+            <p n="1">1. That the true Apoſtles and Prophets of God and Chriſt alwayes, use<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to come with abuſe<g ref="char:EOLhyphen"/>ments of themſelves in the Preſence of God, and with exalting and lifting up God and Chriſt, they uſe to own themſelves ſinners, to have ſin, and to be weak, bruitiſh in themſelvs,
+<pb n="2" facs="tcp:37373:3"/>as of themſelves, and the like; never any of them have uſed to vaunt themſelves or ſpeak of themſelves or one another as ſinleſs, but always abaſe themſelves and gloriſie the Lord; thee therefore that come otherwiſe, preaching themſelves ſinleſs and perfect, and much more; that viliſie and reproach others for confeſting ſin, theſe have nor the badges of the true Prophets and Apoſtles; by this we may diſcover this People called Quakers.</p>
+            <p>That the holy men of God the Prophets and Apoſtles uſe to own themſelves to have ſin in them, the Scripture; witneſs: 1. The Patriarchs and Firſt Fathers though we read not of any pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ticular ſins of ſome of them, yet in this they are manifeſt to have owned them<g ref="char:EOLhyphen"/>ſelves to have been ſinners, and to have ſin in them, that they uſe to worſhip God by Se<g ref="char:EOLhyphen"/>crifice, in which was a remembrance of ſin, <hi>Hebr.</hi> 10.2, 3. But 2. The Prophets are more expreſs in their acknowledgments, as <hi>David,</hi> Pſal. 19.12. <hi>Who can know his errors? cleanſe thou me from my ſecret ſins, and keep me that preſumptuous ſins prevail not over me;</hi> he had ſecret ſins them it ſeems to be cleanſed from: And again in <hi>Pſal.</hi> 38.16, 17. <hi>I ſaid hear me leaſt otherwiſe they</hi> (mine enemies) <hi>ſhould rejoyce over me, when my foot ſlippeth</hi> (it ſeems he was ſenſible of ſlips ſometimes) <hi>then they magnifie themſelves againſt me,</hi> then they rejoyce and inſult: See this is a Character of falſe Prophets, and enemies to the true Prophets ſo to do. Yea he further adds, for I am ready to halt, and my ſorrow is continually before me, for I will declare my iniquity, I will be ſorry for my ſin (ſee <hi>David</hi> was ſenſible of his readineſs to halt, and be<g ref="char:EOLhyphen"/>wails it, and he had iniquity, and ſin he confeſted) but mine enemies (adds he) are lively, and they are ſtrong, <hi>&amp;c.</hi> The enemies to the true Prophets, they it ſeems boaſted them<g ref="char:EOLhyphen"/>ſelves, and vapoured in their ſtrength and pretended holineſs, as if they had no ſin to con<g ref="char:EOLhyphen"/>feſs as poor <hi>David</hi> had, and rep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oached <hi>David</hi> for it, as theſe people, and this <hi>G. Whitehead</hi> have lately reproached us for joyning our ſelves with the Nation in confeſſing ſin, and that they (the Quakers) are ordered of God as a judgment to us (namely this Nation where<g ref="char:EOLhyphen"/>of we are part) for our neglect of Chriſt the ſalvation of God, and abuſe of his truth; how do they infult over us for this? Are they not herein made manifeſt to be like <hi>Davids</hi> enemies, falſe Prophets, that magnified themſelves againſt him, and were lively and ſtrong while he confeſt his ſin. Again in <hi>Pſal.</hi> 143.2. <hi>David</hi> ſays, <hi>Enter not into judgment with thy ſervant O Lord, for no man living ſhall be juſtified in thy fight:</hi> Mark, no man living, implying clearly that there is no man ſo juſt, and holy, and without ſin in himſelf, while he is alive in the world, or living, or before his deceaſe that he may be any otherwiſe juſtified in the fight of God, then by his not entring into judgement with him, that is then by his forgiving his ſin, and ac<g ref="char:EOLhyphen"/>cepting him in Chriſt, doth not that then clearly and perfectly imply no man perfectly freed from ſin in himſelf in this life? <hi>Solomon</hi> alſo ſays in 1 <hi>Kings</hi> 8.46. <hi>There is no man that ſinneth not:</hi> And <hi>Eccleſ.</hi> 7.20. <hi>There is not a just man on earth that doth good and ſinneth not,</hi> he did not then magnifie himſelf as ſinleſs: <hi>Agur</hi> alſo a good man, ſee how he abaſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſelf, and gives glory to God in the beginning of his propheſie; <hi>Prov.</hi> 30.2, 3. <hi>Sarely</hi> (ſays he) <hi>I am more bru<g ref="char:EOLhyphen"/>tiſh than man, and have not the underſtanding of a man; I neither learned wiſdome, nor have the know<g ref="char:EOLhyphen"/>ledge of the holy, Who hath aſcended,</hi> &amp;c. <hi>Every word of God is pure, he is a ſhield to them that trust in him;</hi> he was far from witneſſing perfection in himſelf, and glorying thereof to others: No, he abaſes himſelf, and only gives glory to God. <hi>Iſaiah</hi> alſo when h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was a Prophets, (for he began to propheſie in the days of <hi>
+                  <g ref="char:V">Ʋ</g>zziah,</hi> Iſai. 1.1.) when he ſaw the glory of God and Chriſt, and the Seraphins hiding their faces and feet with their wings in his preſence as not pure enough for Gods ſight, and heard them cry one to another not of o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> another) <hi>Ho<g ref="char:EOLhyphen"/>ly, holy, holy, is the Lord God of Hoſts, the whole earth is full of his glory,</hi> cries out, <hi>Wo is me, for I am undone, becauſe I am a man of unclean lips, and live in the midſt of a people of unclean lips,</hi> &amp;c. And though the Lord then took away his iniquity, and purged his ſin as if <hi>we confeſs our ſins, he is faithful and juſt to forgive us our ſins, and to cleanſe us from all unrighteouſneſs</hi> 1 Joh. 1.9.) yet we find him again afterward confeſſing his ſin, and joyning himſelf with the people in confeſſing their iniquities (and ſo he was none of them people reproved by him that uſe to ſay to others, <hi>Stand by thy ſelf, I am more holy then thou,</hi> as <hi>Iſai.</hi> 65.5.) as in <hi>Iſai.</hi> 59.10, 11, 12, 13. <hi>We grope for the wall like the blind, and we grope as if we had no eyes;</hi> the deceivers of our times had they heard him ſay ſo, its probable would have replyed, Thou art a blind Guide indeed, art thou fir to be a Prophet and Shepherd? and doſt thou call <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s blind Watch<g ref="char:EOLhyphen"/>men, and thou thy ſelf ſayeſt thou gropeſt like the blind, and gropeſt as if thou hadſt no eyes? He after adds, <hi>For our tranſgreſsions are multiplied before thee, and our ſins teſtifie againſt us,
+<pb n="3" facs="tcp:37373:3"/>for our tranſgreſſions are with us, and as for our iniquities we know them, in tranſgreſſing, and lying a<g ref="char:EOLhyphen"/>gainſt the Lord, and departing away from our God, ſpeaking oppreſſion and revolt, &amp;c.</hi> and again in <hi>Iſa.</hi> 64.6. <hi>We are all as an uncleanthing, and all our righteouſneſſe are as filthy rags, and we do all fade as a leaſe, and our iniquities like the wind have taken us a way.</hi> So we might ſhew you in <hi>Jer.</hi> 14.7, 8, 9, 20, 21. And <hi>Daniel</hi> he confeſſed Rebellions and Sins againſt God. <hi>Dan.</hi> 9. and ſays verſ. 20. he confeſſed his ſin, and the ſin of his people Iſtael, &amp;c. But I would be breif.</p>
+            <p n="3">3. Come we to the Apoſtles, or the times of and ſince Chriſt come in the fleſh. <hi>John</hi> the Baptiſt acknowledged ſin in him, for he ſayes, <hi>I have need to be baptized of thee, and comeſt thou to me,</hi> Matth. 3.14. He thought not himſelf, it ſeems, ſo clean then that he needed no further waſhing by Chriſt. So the Apoſtles. <hi>Paul</hi> ſayes, <hi>Sin dwelt in him,</hi> Rom 7.17, 20. and in 1 Tim. 1.15. when he was an Apoſtle he confeſt himſelf a ſinner, ſaying, <hi>Jeſus Christ came into the world to ſave ſinners, of whom I am</hi> (mark, I am) <hi>the chief,</hi> or a chief one. <hi>James</hi> alſo ſayes, <hi>In many things we offend all,</hi> Jam. 3.2. and <hi>John, If we walk in the light, as he is in the light, then have we fell<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n ſhip one with another.</hi> And what then, have we no ſin then in us? nay, he ſayes not ſo, but the contrary, <hi>the blood of Chriſt cleanſeth us from all ſin,</hi> [cleanſeth in the pre<g ref="char:EOLhyphen"/>ſent time] he ſayes not, it hath before cleanſed us from all; ſo as now there is no further need for it to cleanſe us; for we have none to be cleanſed from. But to the contrary, <hi>If we ſay we have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſin, we deceive our ſelves, and the truth is not in us.</hi> And in chap. 2.1, 2. he ſays, Theſe things write I to you, that ye ſin not, it ſeems then, the Apoſtles w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iting ſo, and con<g ref="char:EOLhyphen"/>feſting ſin in them, was not a pleading for ſin, as theſe men upon that account traduce and reproach us, but he writ thoſe things as a warning of men to take heed of ſinning, for it tends to make men the more watchful, to know that there is ſuch an Enemy in their boſom, that is ſo dangerous to them. Wheras the contrary perſwaſion layes men open to follow after what ever is in their hearts, as not being ſin. But ſayes he <hi>if any man ſin, we, (we that be<g ref="char:EOLhyphen"/>leive) have an advocate with the Father Jeſus Chriſt the righteous, and he is the propitiation for our ſins</hi> (marke for our ſins, it ſeemes then they thought, and judged that they had ſins, and ſo need to live upon Chriſt by Faith, as their propitiation, and to abide alwayes in him, wherin they fined no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) they ſayd not, there is no ſin in us, nor we have no ſin in us for Chriſt to be our propitiation for. True it is, he ſayes in 1 <hi>John.</hi> 4.17. <hi>as he is, ſo are we in this World.</hi> But we are not to ſtraine the Scriptures beyond their ſcope, however, that cannot be the meaning of the Apoſtle, that is directly contraty to his other ſayings, he cannot the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore mean in it, we are without ſin as he is, becauſe that is contraty to his own ſaying, <hi>that if we ſay we have no ſin, we deceive our ſelves,</hi> nor will it reach to all things, for then we might ſay as Chriſt is without a viſible perſonal Body in the world, ſubject to aches, and pains, and mortallity, ſo are we too and thats evidently falſe, but he ſpeaks in reſpect of judgment, we have ſuch uſe and reſpect in the world as Chriſt hath.</p>
+            <p>Hereabout <hi>Genge Whitehead</hi> began to grow impatient, and to ſet himſelf to interrupt, and to anſwer, but <hi>I. H</hi> and others preſent, and amongſt them <hi>Mr. H.</hi> the Church warden told him that was not fuire, <hi>I.H.</hi> being called, and come thither to make good his charge ſhould have liberty to proceed, and <hi>I.H.</hi> told him he had not yet done with the firſt branch of it. So af<g ref="char:EOLhyphen"/>ter a little ſtr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gling, he gave way for him to proceed. And he proceeded to this purpoſe.</p>
+            <p>I. H. You ſee this proved, that the true Apoſtles and Prophets uſe to confeſſe ſin in them<g ref="char:EOLhyphen"/>ſelves, and none of them to glory in their perfection and ſinleſneſſe, only the falſe prophets, were otherwiſe carried to lift up themſelves as ſtrong and lively; and the Phariſees they uſe to boaſt, <hi>God I thank thee, I am not as other men are, not like the Publican,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g in themſelves chat they were righteous, and deſpiſing others as being ſinners: and whether this be not the way too of theſe men the Quakers, (for G W. his impatience will not perm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me to obſerve the method propounded,) I appeal to all that have heard them or read their books, Do not they glory of their ſinleſneſſe and righteouſneſſe, and deſpiſe others th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay they are ſinners, yea, have they not reproached, (even this G. W. among the reſt hath reproached us) for own<g ref="char:EOLhyphen"/>ing our ſelves, as part of the Nation, guilty of ſin with them.</p>
+            <p n="2">2. Again, the true Apoſtles and Teachers uſe to prove their doctrine and preaching by the Scriptures, and not to abuſe the Scriptures with groſſe and ſenſeleſſe gloſſes. Now theſe men do abuſe the Scriptures with deceitful gloſſes. I will inſtance one or two <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>we alledged, 1 Kings 8.46. <hi>There is no man that ſinneth not,</hi> to prove that the true Prophets owned all men to be
+<pb n="4" facs="tcp:37373:4"/>ſinners in the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elves. Now mark what a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lleſſe gloſſe theſe people, and this G. W. by name pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s upon it, viz. That among the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that ſin, there is none that ſinneth not, making the wiſeſt of men ſpeak a Tautolog<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpeech to God, that there is none that ſins, that ſins not. And then they adde to that ano<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her ſorry ſhift, that that was under the Old Covenant, under the New Covenant is otherwiſe, as if they would ſay, under the Old Covenant there was no man of them that ſinned that ſinned not: but now its otherwiſe, ſome among thoſe that ſin, ſin not. Again to <hi>Eccleſ.</hi> 7.20. <hi>There is not a juſt man upon earth that ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neth not.</hi> They ſay, mark the word (<hi>there</hi>) there in the changeable ſtate is not a juſt man, &amp;c. pulling the word there from is, when as G. W. knows that it is but one word in the Latine, <hi>viz. Eſt,</hi> and to <hi>there</hi> and is ought not to be parted, <hi>there,</hi> is not in that place Adve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b of Place: and then too they muſt ſay, <hi>Job</hi> was not ſuch a juſt man, for he was in the changable ſtate, waiting all his appointed time, till his change ſhould come. Nor <hi>Paul,</hi> and the other Believers, for they looked for the Saviour from Heaven to change their vile body, <hi>Phil.</hi> 3.20.</p>
+            <p>Hereabout again G. W. grew impatient, and would have been interrupting, and anſwering: but he was told, it was not fair, not to let J. H. proceed, ſeeing it was his work, or part, to prove his Charge againſt them; and the Church-warden bid him either be fair, and hear out the proof of the Charge, or elſe he ſhould not be there. To whom G. W. replyed, Would he have him out of the Meeting-place? and indeed I conceive, he would have willingly had that to glory in, rather than to hear himſelf proved a Deceiver, and ſuch as people ought to count accurſed: but being perſwaded to acquieſs, or be quiet a little, he anſwered, there had been much ſaid, and his memory could not bear ſo much as might be ſpoken, or to that purpoſe. To whom J. H. replyed: It ſeems, thou art not yet perfect, if thy Memory be ſo weak: yet after a little ſtruggling, he gave way again: and J. H. proceeded, to this effect:</p>
+            <p n="2">2. I ſhould come near to the matter of their Doctrine: but he being impatient, I muſt but briefly mention the Heads of what I would charg them with therein: I ſhall only ſay then, That they that ſubvert the Faith delivered by the Apoſtles, and undermine the hope of the Goſpel, they preach other Doctrines than the Apoſtles did, and are ſuch as ought to be accounted accur<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed by men: Now, that theſe men the Quakers, and G. W. particularly doth ſo, I thus demonſtrate.</p>
+            <p n="1">1. They ſubvert the Faith in denying Chriſt to have tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> body in heaven glorified in which he ſuffered, and roſe again, and ſo they deny the truth of that in <hi>Act.</hi> 1.11. that <hi>he ſhould even <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> again in like manner as they had ſeen him go up;</hi> they therein ſubvert the Faith <hi>of his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pearing in heaven for us,</hi> &amp;c.</p>
+            <p n="2">2. They ſubvert the Faith in ſaying as <hi>Edw. Borroughs,</hi> in the Declaration of their Faith, that the knowledg of Chriſt that is to eternal Salvation is the knowledg of him after the Spirit, as he was before the world was, which is in effect, not to confeſs, but make nothing of his coming in the fleſh.</p>
+            <p>Again, They ſubvert the hope of the Goſpel, in denying the Reſurrection of the bodies of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and in ſaying that that coming of Chriſt, in which he ſhall deſcend with a ſhout, with the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the Archangel and Trump of God; And when the dead in Chriſt ſhall be raiſed, and the living believers be changed, is over and paſt, the Apoſtles and Believers of that Age <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and remained to it; for what then have we to expect and hope. But thoſe things we m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt ſpeak to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we can come to them afterward, becauſe he is impatient. N<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ore let us hear what thou canſt ſay for thy ſelf.</p>
+            <p>G. W. then addreſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng himſelf to anſwer. Firſt, pull'd out the papers that I.H. had written <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> one of which he ſaid, that through the ſtrength of God he would prove them Deceivers, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuch as people ought not to hear, but to account them accurſed, and another, in which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> warned people <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beware of them, as of thoſe whom he by good proof knew to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cei<g ref="char:EOLhyphen"/>vers, and ſuch as people ought not to follow, but to account accurſed;
+<note place="margin">
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to depart from the truth known to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Deceives, is without controverfie the ſin <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of in</hi> Hebr. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.4, 5, 6. <hi>and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6, <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> is unpardonable, when finiſhed; nor <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> G. W. <hi>make any queſtion about that.</hi>
+               </note> and, that tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> having known the truth, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> go after them, did <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> therein <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> able ſin, which he was ready <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> lawfully called to it: which <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:37373:4"/>the people: and <hi>J. H.</hi> ſtood to maintain them againſt him, Having read them, he ſold the people that <hi>J. H.</hi> had not made good his charge againſt them: For though J. H. ſaid true, in ſaying That the Prophets and Apoſtles witneſſed ſin in them, and confeſſed ſin, yet that did not prove, that the Quakers preached another Doctrine than they did: For, though the Prophets and Apoſtles did ſo as J. H. had proved, yet (ſaid G. W.) they witneſſed alſo another ſtate afterward, when th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y were free from ſin: and that J. H. had not proved that they ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſin in them ſo long as they lived. (which how falſe that was appears in what J. H. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>id on <hi>Pſal.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. 1.) It is true (added <hi>George</hi>) that <hi>David</hi> had ſometimes ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cret ſinnes, and confeſſed ſinnes, but <hi>David</hi> witneſſed another ſtate, when he had no ſin; for in <hi>Pſal.</hi> 103.1. he ſayes, <hi>Bleſs ye th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ord O my ſoul, and all that is within me bleſs his holy name:</hi> now it <hi>David</hi> had ſin in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, now could all that was within him bleſs Gods holy name? can ſin bleſs Gods ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y name that is ſo contrary to God and his name? therefore ſeeing all within <hi>David</hi> could bleſs Gods name, it follows, there was no ſin in him: and ſo in <hi>Pſal.</hi> 119.1. <hi>David</hi> ſayes, <hi>Bleſſed are the undefiled in the way, they alſo do no iniquity:</hi> now every ſin defiles,
+<note place="margin">
+                  <hi>This is ſpoken too in the Diſpure.</hi>
+               </note> and therefore they have no ſin in them, that are undefiled in the way, and in another place <hi>David</hi> ſayes, <hi>Lord thou haſt heard me, and granted me all my deſires.</hi> (but we could not get him to name in what place he read that Saying, though we called to him for it, but went on, taxing us for interrupting him, and gave this gloſs,) now he deſired the Lord to cleanſe him from his ſecret ſinnes; and God having granted him all his deſires, he was cleanſed from them all. Then he went to that of <hi>Solomon, Eccleſ.</hi> 7.20. and reading two or three Verſes before he gave this gloſs upon it, That of men in the changable ſtate there is not a juſt man that doth good: And hereabout <hi>T.M.</hi> and he had two or three words: <hi>T. M.</hi> objected, That there was no mention of any changable ſtate, but of <hi>fearers of the Lord:</hi> But he went on, and (as I take it) bid <hi>Joſeph whiteworth</hi> that ſate by him and wrote, write, that <hi>Tho. Moore</hi> ſaid,
+<note place="margin">
+                  <hi>(a falſhood.)</hi>
+               </note> There is no changable ſtate: and added, that <hi>Solomon</hi> ſaid, <hi>That the righteouſneſs of the
+<note n="*">
+                     <hi>Men may be ſaid to be perfect, that yet have ſin in them, as</hi> Job <hi>was a perfect man,</hi> Job 1.8. <hi>and</hi> 2.3. <hi>yet he had ſin,</hi> Job 7.20, 21. <hi>and</hi> 42.5, 6. <hi>and</hi> Aſa, <hi>as</hi> 2 Chr. 15.17, <hi>with</hi> 16.8.</note> perfect ſhall direct his way,</hi> and ſo went on to <hi>Iſaiah,</hi> and gave the like put off to him, as, that <hi>Iſaiah</hi> indeed confeſs'd ſin, but witneſſed another ſtate, when God had wrote all his works in him: and <hi>Daniel</hi> witneſſed the bringing in <hi>an everlaſting righteouſneſs.</hi> And Chriſt bid,
+<note n="†">
+                  <hi>Exhortations to things prove not thoſe things to be perfectly attained by any here: nor doth the Scripture ever ſay, Let not ſin be in you, as if men might get it all out; though it ſayes,</hi> Let it not reign in your mortal bodies.</note> 
+               <hi>Be ye perfect, as your heavenly Father is perfect,</hi> and <hi>Paul</hi> ſayes, <hi>So many as are perfect let us be thus minded.</hi> And <hi>James</hi> ſayes, <hi>Let patience have her perfect work, that ye may be intire, wanting in no good thing.</hi> And to that of h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſaying, <hi>In many things we ſin all:</hi> he ſaid, So he ſayes, <hi>With the tongue we bleſs God, and therewith curſe we men:</hi> not that He did ſo, though he put in himſelf, and ſo as if he was none of the all that offended. And that <hi>John</hi> ſayes, <hi>If we ſay, We have no ſin,</hi> or <hi>have not ſinned;</hi> but he ſayes not, If we ſay we are not all ſinners we deceive our ſelves; that he joyned himſelf with the <hi>little
+<note n="‖">
+                     <hi>It ſeems then, the little children may have ſin in them: and are not they born of God? How elſe were they children, and knew the Fa<g ref="char:EOLhyphen"/>ther? as</hi> 1 John 2.13. <hi>So then, They that are born of God may have ſin in them.</hi>
+                  </note> Children</hi> to whom he writ, <hi>that they might not ſin,</hi> and that they might have ſin: and with reference to them he ſayes, <hi>If we ſay, we have no ſin, we deceive our ſelves:</hi> but they witneſſed another ſtate, when they ſay, <hi>Whoſoever is born of God ſinneth not, becauſe the ſeed of God abideth in him:</hi> Neither can he ſin, becauſe he is born of God. And in 1 <hi>John</hi> 5.18. <hi>We know that whoſoever is born of God ſinneth not, but he that is begotten of God keepeth himſelf that the wicked one toncheth him not:</hi> And again, <hi>He that doth righteouſneſs is righteous, even as he is righteous:</hi> And therefore He concluded, That <hi>J. H.</hi> had not made good his Charge; had not proved, That they preached other Doctrine than was preached by the Apoſtles, &amp;c.</p>
+            <p>To this <hi>I. H.</hi> replyed, That he had miſtaken his Argument, which was to this purpoſe, That the true Prophets and Apoſtles came confeſſing ſin, and not reproaching any for ſo doing, but they did not ſo own ſin, but reproach them that confeſt them. They urged that <hi>I. H.</hi> ſaid the Prophets and Apoſtles came always confeſſing ſin, whereas the expreſſion was always abaſing themſelves and exalting the Lord, and that they uſe to acknowledge themſelves ſinners, and
+<pb n="6" facs="tcp:37373:5"/>to have ſin, and never to ſay of themſelves that they were without ſin, or had no ſin; but <hi>I. H.</hi> waving other things asked <hi>G. W.</hi> whether they that he proved to have owned themſelves ſin<g ref="char:EOLhyphen"/>ners, and to have confeſſed their ſin (as he alſo had granted) were Prophets and Apoſtles when they ſo did: To that <hi>G. W.</hi> anſwered, that they did then miniſter. <hi>I. H.</hi> What? did they mi<g ref="char:EOLhyphen"/>niſter before they were Prophets and Apoſtles? Had they not Commiſſion from God then to miniſter, and ſo were they not then Prophets and Apoſtles when they ſpake and wrote ſuch things as were alledged. To this <hi>G. W.</hi> ſomewhat unwillingly (as he ſeemed) granted that they were then Prophets and Apoſtles.</p>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>What ſtate was that then in which they witneſſed no ſin in them, if they were Pro<g ref="char:EOLhyphen"/>phets and Apoſtles when they confeſſed ſin.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>When they were born of God then they witneſſed no ſin in them, or that they were freed from fin, <hi>for he that is born of God ſinneth not,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>Were not the Apoſtles then born of God when they were Apoſtles, and wrote theſe things, as <hi>Paul,</hi> that <hi>it was no more be that did it, but ſin that dwelt in him.</hi>
+               </p>
+               <p>
+                  <hi>G. W. Paul</hi> had a time when he was not born of God, when he groaned, and travelled, and waited for the adoption, the redemption of the body; for while ſin was above him, and he groaned and was burthened with it, he was not yet born of God, but when he was ſet free from it then he was born.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>What was not <hi>Paul</hi> bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of God when he ſays, <hi>We alſo that have the firſt fruits of the Spirit, even we our ſelves, groan within our ſelves, waiting for the adoption, the redemption of the body.</hi>
+               </p>
+               <p>G. W. <hi>Paul</hi> when he travelled, and was g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oaning for deliverance, and waiting for the re<g ref="char:EOLhyphen"/>demption of the body, was not as yet born or God; but afterward he witneſſed a being redee<g ref="char:EOLhyphen"/>med from ſin, and then he was born, as ye know in natural things, a woman when ſhe is in tra<g ref="char:EOLhyphen"/>vel to be delivered, the child is not yet born.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>People, I pray did ye ever hear of a woman in travel, before that woman was born? Was there ever ſuch a thing? Here all the people fell a laughing at <hi>G. W.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Nay, thou belieſt me, I did not ſay ſo, That a woman travels with child before ſhe be born.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>Nay, I did not ſay thou ſaidſt ſo, but thy ſimilitude muſt be ſo, if thou ſpeakeſt to pur<g ref="char:EOLhyphen"/>poſe, for it was <hi>Paul</hi> that thou ſaidſt groaned and travelled to be delivered, and it is the woman in travel that groans and travels, not the child to be born: But <hi>George</hi> I ſhall read thee a Scri<g ref="char:EOLhyphen"/>pture, and prove that <hi>Paul</hi> was then born of God; it is 1 <hi>John</hi> 5.1. <hi>Whoſoever beleeveth that Je<g ref="char:EOLhyphen"/>ſus is the Chriſt is born of God. Paul</hi> did believe Jeſus to be the Chriſt when he was an Apo<g ref="char:EOLhyphen"/>ſtle and writ to the <hi>Romans,</hi> and ſaid they waited for the redemption of the body; did not <hi>Paul</hi> when an Apoſtle (and ſo the reſt of them) believe Jeſus to be the Chriſt? which wilt thou deny.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>[Here <hi>George was</hi> pittifully put to it, and all the people generally ſee his confuſion, that he was in a ſhare, ſo that he durſt deny neither of thoſe Propoſitions; but he then flew to another ſhift] that <hi>Paul</hi> condeſcended in his writing to thoſe of low degree, and that were not yet born of God, and became a Jew to the Jew, and to them that were under the Law, as under the Law.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>Tell me which Propoſition thou wilt deny, Is not whoſoever believes Jeſus to be the Chriſt born of God; Or did not <hi>Paul</hi> when he owned himſelf to have ſin in him believe that Jeſus was the Chriſt: And here <hi>G. W.</hi> was pittifully ſhackled and nonpluſt, and would fain have been out of the Argument, having nothing to ſay for himſelf ſtill but that.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>The Apoſtle condeſcended to the eſtate of ſome he wrote to (as if the believing <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> or Saints at <hi>Rome</hi> that he wrote to) were not born of God, or did not then believe that Je<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us is the Chriſt; or as if the Apoſtle would make himſelf an unbeliever with unbe<g ref="char:EOLhyphen"/>lievers.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>Then it ſeems <hi>Paul</hi> wrote a lie, as touching himſelf that he waited for the Redem<g ref="char:EOLhyphen"/>ption of the body, and travelled (as thou ſayeſt) in pain when it was ſelfe of h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> did not ſo but had already attained the Redemption of his body. Did he ſay fal<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y of himſelf?</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>He condeſcended to the ſtate of others, he became a <hi>Jew</hi> to the <hi>Jew,</hi> &amp;c. as before.</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Did he ſay falſly then with reſpect to himſelf? Did not <hi>Paul</hi> believe that Jeſus was the Chriſt, when he was an Apoſtle, and confeſſed ſin in himſelf? was not he born of God. Here he being ſtill baffled and not anſwering any thing to the purpoſe, divers called to him
+<pb n="7" facs="tcp:37373:5"/>to anſwer to the buſineſs, or elſe to own himſelf a Deceiver, or to that purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>T. M.</speaker>
+               <p>Anſwer then, whether <hi>Paul</hi> was born then of God, or believed Jeſus to be Chriſt or to that purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>You are two to one.</p>
+            </sp>
+            <sp>
+               <speaker>T. M.</speaker>
+               <p>We ſpeak both but one thing; we aſk the ſame thing.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>I came not here to ſatisfie unreaſonable men; <hi>Paul</hi> ſpake at a <hi>Jew</hi> to the <hi>Ju<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Then he ſpake there falſe it ſeems of himſelf; wilt thou ſay ſo? He b<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ng p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zled about it <hi>J. H.</hi> ſaid to him, Ah <hi>George,</hi> where is thy vaunting Language now, as if thou couldſt tread down all before thee? and thy ſetting up thy ſelf above God?</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Thou be<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſt me: Did I ſet up my ſelf above God? See people how <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> or to that purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Didſt thou not ſet up thy ſelf above God, when thou didſt reproach me by my G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d? as if he would or could not carry me forth againſt thee: He ſaid, If thy God will c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ry thee forth, by way of reproach. [Alſo I was informed, that at <hi>Godney</hi> they ſaid, They would make us aſhamed of our God: Now, if God be the true God (as he is) what, but a ſetting up themſelves above God was this let all judg.]</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Canſt thou deny that <hi>Paul</hi> was born of God, when an Apoſtle? or, that he believed that Jeſus was the Chriſt?</p>
+               <p>
+                  <hi>G. W. Paul</hi> ſpake to the ſtate of others when he ſaid, <hi>O wretched man that I am; and groaned, and waited for the Redemption of the body.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Did <hi>Paul</hi> then witneſs or experiment the Redemption of his Body from corruption before he dyed?</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Yea, he did witneſs it.</p>
+            </sp>
+            <sp>
+               <speaker>T. M.</speaker>
+               <p>Witneſs it; But Had he it? was his body redeemed from corruption before he dyed?</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Yea, he had the Redemption of his body before he dyed.</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Is not the body ſown in corruption when it dyes? <hi>It is ſown in corruption, it is raiſed in incorruption.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Yea, but is not ſin corruption?</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>How is it redeemed from corruption before it dye, when it is ſown in corruption when it dyes?</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Corruption is ſin: <hi>Pauls</hi> body was redeemed from the Law of ſin, and Death.</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>But is all corruption ſin? There is a corruption of mortality th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t came in by ſin.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>All corruption is ſin, or came in by ſin; and take away the cauſe, and the effect ceaſes. Now we ſhall prove that he was made free from ſin.</p>
+            </sp>
+            <sp>
+               <speaker>T. M.</speaker>
+               <p>Anſwer plainly, and prove it from the Scripture, That the Redemption of the body that <hi>Paul</hi> waited for, he had it before he dyed: For you bring nothing for it <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et but your corrupt Logick, in which one as weak as my ſelf might diſcover its <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alſneſs.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Did I uſe any Logick—what Logick?</p>
+            </sp>
+            <sp>
+               <speaker>T. M.</speaker>
+               <p>Where there is freed me from the cauſe the effect ceaſes<g ref="char:punc">▪</g> Now, that <hi>Paul</hi> had freedome from ſin the cauſe of corruption before he dyed is that you w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt about to prove, and ſo to get from the Queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Yea that is Logicall; but will not alwayes hold; the effect may laſt when the cauſe is goue [as a houſe may ſtand, when he that built it is dead] but is not that corruption which is in death, in which the body corrupteth? and did not <hi>Paul</hi> wait for the Redemption of his body from that?</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Yea that death that came in by ſin. [but what death was that that cameth by ſin (he ſaid he asked the Queſtion before I aſked what follovvs though I do not remember that he did]</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>What Death came not in by ſin?</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>What death came in by ſin?</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>I aſked thee vvhat death came not in by it?</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>I aſk thee a queſtion, and thou anſvvereſt me by aſking me an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther: Anſvver my Queſtion, I firſt aſked thee.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>I did not hear that thouaſkedſt that Queſtion firſt, but thou ſaidſt, That death that came in by ſin: and I aſked thee, what death came not in by ſin?</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Nay I aſked thee firſt, What Death came in by ſin? and thou refuſeſt to anſvver my Queſtion; Is this fair?</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceiving he ſought occaſion to vvinde out from the buſineſs in hand, by ſtarting
+<pb n="8" facs="tcp:37373:6"/>another Queſtion, if he did firſt aſk it, or whenſoever he ſtarted it; replyed: I remember not that thou didſt aſk me that firſt; but however 'tis not my buſineſs now to anſwer thy queſtions, that may lead us from the matter in hand; My buſineſs is now to prove my charge againſt thee: if thou wilt own that that is done I will anſwer thee thy queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>pulling out a book writ by <hi>J.H.</hi> and <hi>T.M.</hi> about their former Diſpute with him, and <hi>S.F.</hi> would fain have diverted to it, and ſaid, He would prove <hi>J.H.</hi> had there bely'd him.</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>Thou haſt anſwered that Book in print, the people may ſee what thou ſayſt againſt us there, and we ſhall give it an anſwer God willing ere long<g ref="char:punc">▪</g> what have we to do with hearing thee read in that book now?</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>I will prove here that <hi>J.H.</hi> hath here contradicted himſelf, or to that purpoſe, and would fain have been reading.</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>If thou wilt grant I have proved my charg, we will hear thee read; but if not, let me do what I come about. Anſwer me, and prove that <hi>Paul</hi> had the Redemption of his body there ſpoken of before he dyed.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>urging yet to read, the people told him, That was to go from his buſineſs, and bid him anſwer to what he was charged with, or ſay the Charg was proved.</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>Did <hi>Paul</hi> prove the Redemption of his body before his deceaſe, for which he waited, as he ſayes <hi>Rom.</hi> 8.23?</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>Yea he did before his deceaſe.</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>Prove that.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>In Rom 8.2. He ſayes, The Law of the Spirit of life in Chriſt Jeſus hath made me free from the Law of ſin and death. And in another place, I can do nothing againſt the truth, but for it.</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>What be theſe to the purpoſe? <hi>Paul</hi> ſaid, He was made f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee from the law of ſin and death, before he ſaid, He waited for the adoption, the redemption of the body: For he ſayes that in <hi>Rom.</hi> 8.2. and yet ſpeaks of waiting for the Redemption of his body, after that, in <hi>ver.</hi> 23. Therefore what he ſayes about his being free from the Law of ſin and death could not be the redemption of h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s body that he there mentions; for why ſhould he wait for that yet; if he before had it? did he wait for what he had already?</p>
+               <p>Here <hi>G.W.</hi> was wholly driven from that proof, ſo as we heard no more of it, and to help himſelf betook him to the other.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>But he ſayes in the other place, he could do nothing againſt the truth but for the truth.</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>Could he then do ſomething againſt the truth when he ſaid, He waited for the Redemption of the body? The which alſo <hi>T.M.</hi> asked.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>Yea, That which waited for the Redemption could: for he cryed out, Oh wretched man that I am; and he was led captive by the Law of ſin and death.</p>
+            </sp>
+            <sp>
+               <speaker>T.M.</speaker>
+               <p>Where ſayes he That he was led captive by it? He ſayes, He found a law in his members leading him captive to the law of ſin and death: but where ſayes he that he was led?</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>He ſayes, With his fleſh he ſerved the law of ſin; ſo then he was led by it, and could do againſt the truth: Doth not fin do againſt the truth?</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>But <hi>Paul</hi> ſayes not, That his fleſh or members waited for the adoption, the redemption of his body, but that he himſelf waited for it: and though his fleſh ſerved the law of ſin, yet that was not he that did it, but fin that dwel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in him.</p>
+            </sp>
+            <sp>
+               <speaker>T.M.</speaker>
+               <p>While he waited for the adoption, the Redemption of the body, though fin acted in him, yet he did not walk after it, but was led by the Spirit; and ſo could do nothing againſt the truth: or to that purpoſe.</p>
+               <p>
+                  <hi>G.W. George</hi> ſtill pleaded, That his members, the creature that waited for the redemption could do ſometh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng againſt the truth, till it was deliver'd from the bondage to corruption; and then it had the Redemption of the body, for which he waited.</p>
+               <p>
+                  <hi>T.M. Paul,</hi> while he waited for the Redemption of the body, was led by the Spirit of G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, and ſuch as are the ſons of God; and they that are born of God cannot ſin, or do any thing againſt the truth: or to that purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>ſtill inſiſted upon the creature waiting to be deliver'd that it night, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d that <hi>Pauls</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> which were yet in bondage to corruption might act againſt the truth, not receiving the A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>wer given, That th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was not he that did it, but ſin that dwelt in him, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſo <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> him; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> That ſuch as are led by the Spirit, and are ſons of God, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at ſuch, and ſo in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Paul</hi> ſayes it of himſelf, do any thing againſt the truth, but for it; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at is, not find in his heart to yeild up to ſin inticing, or ſtriving in his members to do any thing againſt it.</p>
+               <p>[Beſides,
+<note place="margin">
+                     <hi>a by-Note.</hi>
+                  </note> 
+                  <hi>Paul</hi> ſayes in the ſame Chapter, <hi>verſ.</hi> 35, 36, 37. <hi>That he was perſwaded nothing could ſeperate them from the love of God in Chriſt Jeſus:</hi> and therefore <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> he could then do nothing againſt the truth, but for it. But this that <hi>G.W.</hi> pleaded, clearly argued their groſs
+<pb n="9" facs="tcp:37373:6"/>corruption, in not believing the Redemption of the body from death and grave; and that made him put it upon a Redemption of <hi>Pauls</hi> members only from ſin, from which yet that he was perfectly freed, as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o its inherency in him before death he was not able to prove.]</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>calling oftentimes to be heard by <hi>G.VV.</hi> what he had ſaid, and had to ſay, and <hi>G.</hi> going on in a diſcourſe, to no purpoſe, about the creature being in a travail, and waiting for th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Redemption, and applying that to <hi>Pauls</hi> body or members to be redeem'd from ſin, and acting then ag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt he truth: <hi>J.H.</hi> ſaid, I came here to prove you Deceivers, and to make good my charge, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> heard wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I have to ſay. Thereupon <hi>J.Lee,</hi> without our approbation, called out to him, and ſaid. <hi>G.VV.</hi> why cauſt thou not bee patient now, and hear what is ſaid to thee as well as thou <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> other day with Mr. <hi>F.?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>Here <hi>G.VV.</hi> could hear that, and take occaſion to ſpend a little time in commending <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> as he call'd him, as better and more moderate than we.</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>We are not deſirous of thy commendations, or think them any great praiſe to us, if <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> them; I came here to make good my charge againſt yon, and you run on to other things, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> not hear what I ſay to you. That which thou talkeſt of the creatures groaning and waiting <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> deliverance is a diſtinct thing from what we have in hand, and pertains not to <hi>Pauls</hi> waiting for the deliverance in his body, or members, thou talkſt of, read the Text, and here <hi>J.H</hi> read the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 8.19. <hi>The earnest exſpectation of the creatures waiteth for the manifestation of the ſons of God.</hi> The creature that waiteth for the manifeſtation of the Sons of God is diſtinguiſhed from the Sons of God to be manifeſted, and is not the Sons of God themſelves: and ſo in <hi>verſ.</hi> 21. <hi>The creature itſelf ſhall be deli<g ref="char:EOLhyphen"/>vered from the bondage of corruption into the glorious liberty of the Sons of God:</hi> See the ſame diſtinction again. And th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n again, when he had ſaid, The whole creation groaneth and travaileth in pain together untill now, he adds, <hi>And not only they, but we our ſelves alſo who have received the firſt fruits <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the ſpirit.</hi> See an evident diſtinction between the creature before-mentioned, and that travailed in pain, about which thou mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt a ſtir: and <hi>Paul</hi> and the Believers that waited for the Redemption of the body from mortality and corruption: they were the Sons of God to be manifeſted, and being ſons of God, born of God, could then do nothing againſt the truth but for it, in ſuch ſenſe as he that is born of God ſinneth not nor can ſin, and yet they had the Redemption of the body as a father thing to wait for: And therefore that ſaying, That he could do nothing againſt the truth but for it, proves not that he could do not that he had in this life the Redemption he here ſpeaks of. Prove that <hi>Paul</hi> had this Redemption of his body before he dyed, or elſe own the charge proved.</p>
+               <p>The people calling upon him to make good that, or elſe own the charge made good, he replyed.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>If I ſhould own that he hath made good his Charge againſt me, I ſhould prove <hi>J.H.</hi> to contradict himſelf; for he ſaies in his Paper, That people ſhould not hear us, and yet you and he would have me anſwer that you might hear me what I have to ſay, He read the Paper.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>jangling with ſome of the people about that frivolous put off. <hi>J.H.</hi> called to be heard, and anſwered thus,</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>I did explain the meaning of that word when I writ the Paper, and gave it out, and de<g ref="char:EOLhyphen"/>ſired I might by hearing be underſtood to liſten to and receive your Doctrine, as I appeal to Eſq. <hi>Sho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ter,</hi> if he be here.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>Then people you may ſee his deceit, that he w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ires one thing, and means another that is not here vvritten, for here it is hear.</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>I gave my meaning to the vvord expreſly vvhen I gave my Paper to <hi>G.F.</hi> and <hi>Ed Shitter,</hi> nor did I publiſh the Paper.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>Many have ſeen it.</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>I gave it to none but <hi>Ed. Sheoter,</hi> or <hi>G. Fox,</hi> and gave my ſenſe to them vvith it: If they ſhevved it many, that vvas their act.</p>
+            </sp>
+            <sp>
+               <speaker>T.M.</speaker>
+               <p>The next vvords explain the meaning, becauſe it follovvs, but to account them accurſed. It is not ſo to hear as to receive them.</p>
+               <p>
+                  <hi>People.</hi> This is a mere cavil: Let him anſvver to the buſineſs in hand, or yeild the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oved.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>Do you think I vvill grant (or ovvn) That people ſhould count us <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>?</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>I do not think you vvill, nor did I undertake to make you ovvn it. But to prove you ſo. Its enough, the people ſee it; They are to judg vvhether I make good my charge.</p>
+            </sp>
+            <sp>
+               <speaker>T.M.</speaker>
+               <p>Either ſpeak ſomething to purpoſe, or acknovvledg thy mouth ſtopp'd, as it hath often been by the force of the truth.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>He vvould have me acknovvledg my mouth ſtopt, and yet I ſpeak to them, and anſvver them.</p>
+            </sp>
+            <sp>
+               <speaker>T.M.</speaker>
+               <p>A man may have his mouth ſtopt, though he ſpeak vvhen he ſpeaks to no purpoſe. A mans mouth his ſtop'd when he cannot reſiſt the wiſdome and povver by vvhich the truth is ſpoken, as <hi>Act</hi> 6. could not reſiſt, though yet they are ſaid <hi>Act.</hi> 7. to have reſiſted. And it appears thy mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th is ſtopt, becauſe thou runſt avvay from the charge to other imper<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> things.</p>
+               <pb n="10" facs="tcp:37373:7"/>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>Well <hi>George,</hi> hither to I have made good my charg, That you come not as the true Prophets and Apoſtles, thou haſt not been able to prove, That any of them preach'd themſelves free from ſin, ſo as to be without ſin. Thou didſt ſpeak of <hi>David</hi> confeſſing another ſtate, and brought <hi>Pſal.</hi> 107.1. <hi>All that is within me bleſs his holy name,</hi> and from thence wouldſt infer, that <hi>David</hi> had no ſin in him then; for How could ſin bleſs Gods name? but <hi>David</hi> himſelf implyes the contrary, for <hi>verſ<g ref="char:punc">▪</g>
+                  </hi> 3. he ſayes, <hi>Who forgiveth all thine iniquity;</hi> it ſeems he had ſome then.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>They were for given.</p>
+            </sp>
+            <sp>
+               <speaker>T.M.</speaker>
+               <p>It is forgiveth, in the preſent time: can there be forgiveneſs of ſin, if there be no ſin he ſignifies a dayly forgiving, or to ſuch purpoſe.</p>
+               <p>
+                  <hi>G.W. David</hi> ſaith, <hi>Pſal.</hi> 119.1. There are ſome underfiled in the way, who do no iniquity.</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>Doth <hi>David</hi> ſay, There are ſome undefiled, he ſayes they are bleſſed that are ſo: but that there are ſome ſo at leaſt in ſuch a ſenſe as to have no ſin in them he ſayes not; I am ſure he ſayes not ſo of himſelf, That he had no ſin in him, but implyes the contrary (in <hi>verſ.</hi> 5, 6.) when he ſayes, <hi>O that my wayes were ſo directed, that I might keep thy ſtatutes;</hi> as implying they were not yet ſo: And again, <hi>Then ſhall I not be aſhamed when I ſhall have reſpect to all thy Commandements;</hi> he doth not ſay, He had then ſuch reſpect to them all.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>Doth not <hi>David</hi> ſay, there are ſome undefiled, when he ſayes bleſſed are the undefiled in the way, and doth not every ſin defile? therefore he Witneſled ſome had a ſinleſs ſtate: or to that purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>He ſayes undefiled in the way, Chriſt is the way: We grant ſome undefiled and compleat in Chriſt, but not ſo as to be ſinleſs in themſelves? Is not undefiled perfect?</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>Yea, undefiled is perfect.</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>A man may be perfect in a Scripture ſenſe, and yet have ſin. <hi>Aſa</hi>'s heart was perfect with the Lord all his dayes, and yet he ſinned.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>When was that written of him?</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>Surely after his death, how elſe ſhould they ſay what he was all his dayes?</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>Nay it might be written before; and ſo all his dayes till that was written his heart was perfect; for afterward he relyed not on the Lord, but ſought to the Phyſicians: his heart was not perfect then.</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>How could the Hyſtory of his life and death be written, but after his death? It is not ſaid, all thoſe dayes, or till ſuch a time; but his heart was perfect all his dayes: a part of his dayes is n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t all his dayes. [his heart was perfect in that he walked not between God and Baal, or an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe-wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhip.]</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>He might be perfect all his dayes till then that was written: but if the righteous man turn <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his right<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſneſs and co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mit miquity, his righteouſneſs ſhall not be mentioned.</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>H<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> heart was perfect all his dayes, [his righteouſneſs is mentioned,] It is not ſaid, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> turned, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> being perfect-hearted.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>He was but one.</p>
+            </sp>
+            <sp>
+               <speaker>J.H.</speaker>
+               <p>I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one that had ſin in him, or ſinned, might be yet called perfect-hearted, then why not tw<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> twenty, or an hundred. He would ſain have been reading in <hi>J.</hi> H's book, but he told him it was beſides the b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſineſs.</p>
+               <p>Wh<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> were buſie in our diſcourſe came <hi>Giles Roſe</hi> a poor deluded man, that was one of the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat turned Q<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aker in the Town of <hi>Lin</hi> but upon ſome account or other doth not throughly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m but is eſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ded at them, and as it hath been ſaid, objected ſometimes againſt them ſome <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ges between ſome of their ſpeakers, and a woman of them: He had made an inter<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>p<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>on two dayes before of another diſpute between <hi>G.VV.</hi> and another Mi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter in the Town; The people hea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing him begin at a diſtance, like a kin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of diſtracted man, to call out, and ſeeing him coming, made ſome commotion, ſome of them crying to have him carryed away, that he might not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ake any diſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> interruption of the Diſpute, but that he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight proceed, and others <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ging him in and ſetting him in the midſt of us, who began firſt to one party and then to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, to play the part of a Prophet in his conception againſt us for diſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting, and variance<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ooſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ning the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e of love, taxing <hi>G. VV.</hi> and his party for drawing away Wives from them <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, Children from their Parents, Servants from their Maſters, &amp;c. To whome GEORGE ſpake a word or two, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ebuking his way as deceit.</p>
+            </sp>
+            <sp>
+               <speaker>T.M.</speaker>
+               <p>See the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thy miniſtry <hi>George,</hi> the people laught, thy Principles are ſur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to lead <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to deſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>actions.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>He is none of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e fruit of my Miniſtry.</p>
+               <p>
+                  <hi>I. A.</hi> Your Principles, or Miniſtry, led a Brother of mine I am ſure into deſtraction.</p>
+               <p>
+                  <hi>I H.</hi> Yes, I am a witneſſe of that; ſo<g ref="char:punc">▪</g> he fell to my knowledge out of Quaking fits, within a very little ſpace into deſtraction, and within a fortnight died.</p>
+               <pb n="11" facs="tcp:37373:7"/>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>It was before I came to this Towne.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>But not before yonr Principles and Doctrine came, after ſome time of interruption by the aforeſaid Giles when a little quiet was obtained. <hi>I. H.</hi> fell on againe.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>I have made good my charge againſt you <hi>George,</hi> as not coming as the true Apoſtles and Prophets uſe to do. I ſhall a little ſpeak to the other part in one argument, becauſe I ſee time goes a way. 'Tis this, they that under-mine and deſtroy the hope of the Goſpel preached by the A<g ref="char:EOLhyphen"/>poſtles, they are preachers of another Goſpel or Doctrine, then the Apoſtles preached, and are to be accounted accurſed, and not received, or followed. This I charge you Quakers with, and you <hi>G. W.</hi> by name. in that you ſay the coming of Chriſt, at which the dead in Chriſt are to be raiſed, is already paſt and over. They that ſo do, ſubvert the hope of the Goſpel. Mind it people.</p>
+               <p>They that ſay the coming of Chriſt, wherin the dead in Chriſt are to be raiſed, is paſt and over, they ſubvert, or under-mine the hope of the Goſple, for if Chriſt be come in his glory, and the Saints raiſed that were dead, and the living changed, and all together caught up in the aire to meete the Lord, what have we then to hope or look for.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>denying this. <hi>I. H.</hi> read their words out of their Book againſt him, and <hi>T. M.</hi> their words are thus, as for that coming of Chriſt ſpoken of in 1 <hi>Theſſ.</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>4.15. which theſe men would blindly put a ſat off, to a coming of Chriſt in a Body of fleſh and bones, the Apoſtle ſays wee that live and remaine tell the coming of the Lord. So that coming of Chriſt, the Saints that were <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen a live remained unto it. Judge good people, is Chriſt yet come, are the dead bodies of the Saints raiſed, and the living changed, and all caught up together in the aire to meete him. If thoſe men be not ſuch as we are to avoid, and account accurſed, who be?</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Thou readeſt out of a book, and yet will not give w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, I ſhould read out of thy Book.</p>
+               <p>
+                  <hi>M. H</hi> Here is not the ſame reaſon. He <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to prove you deceivers, and ſuch as are to be accounted accurſed, (or to that purpoſe) and therfore may produce Teſtimonies out of your books againſt you, but you are not to prove againſt him, but to defend your ſelf.</p>
+               <p>
+                  <hi>J H<g ref="char:punc">▪</g>
+                  </hi> What hoſt thou to ſay to this argument.</p>
+            </sp>
+            <sp>
+               <speaker>G.W.</speaker>
+               <p>I meant is not of that reſurrection of the dead thou ſpeakeſt of, or to that purpoſe.</p>
+               <p>
+                  <hi>J, H.</hi> Thou ſpeakeſt of that coming of Chriſt mentioned in that Scripture, and that Scripture ſpeaks of Chriſt deſcending from Heaven to raiſe the dead in him. I ſhall read it to you 1 <hi>Theſſ<g ref="char:punc">▪</g>
+                  </hi> 4.13, 14 <hi>I would not have you ignorant Brethren concerning them that ſleept.</hi> Its evident he ſpeaks of thoſe that ſleepe in the bodyly death, as its ſayd of <hi>St<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>phen,</hi> that when he had ſaid thoſe words he fell a ſleepe, He would not have Beleivers mourne as thoſe without hope concer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing them. <hi>For if we beleive ſayth he that Jeſus died and roſe again, even ſo then alſo that ſleepe in Jeſus will God bring with him,</hi> for this we ſay unto you by the word of the Lord, that we which are alive (that is thoſe of us of our body or ſociety, accounting beleivers of all ages but as one body) and remain<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to the coming of the Lord, ſhall not revent th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that are a ſleepe. For the Lord himſelf ſhall deſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd from heaven with a ſhout, and with the vo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Archangel, and with the Trump of God, and the dead in Chriſt ſhall riſe firſt, and we which <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e a live and remaine, ſhall be caught up toge<g ref="char:EOLhyphen"/>ther with them in the clouds, to meete the Lord in the ai<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, and ſo ſhall we ever be with the Lord. What more plaine th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n that he ſpeaks of the co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng of Chriſt to raiſe the dead, thoſe that ſleepe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the grave, and to change <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e living beleivers, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Now I appeal to you all, whither thoſe things were done in the time of thoſe beleiv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> before they dyed, and if ſo what have we to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ope for.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>There is a twofold ſleeping ſpoken o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, there is a ſleeping ſpi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itually (or to that pur<g ref="char:EOLhyphen"/>poſe) ſuch as is ſpoken of in the next Chapter. <hi>Let us not ſl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>epe as do others, but let us watch and be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ober, for they that ſleepe ſleepe in the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ght,</hi> and there i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a ſleeping ſuch as <hi>St<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>phen</hi> is ſaid to fall a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eepe in at death. Now the Apo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> there ſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of the firſt.</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Nay, he ſpeak of the ſleeped <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> death, <hi>the dead in Chriſt ſhall riſe firſt.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Is it not ſayd, <hi>the howe is coming, and no <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, that the dead ſhall hear the voice of the Son of God, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y that hear ſhall live.</hi> John 5.25.</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Had not the Apoſtles and beleive<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s heard that voice of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Son of God, raiſing them from death in ſin, before the Apoſtle wrote this, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they that yet to looke for, that in <hi>John</hi> ſpeaks of men dead in ſin, and this of the dead in Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Is it not ſayd of thoſe <hi>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſalonian, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> they turned from dumb Idolls to ſerve the living God, and to wayte for his Son from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> could they waite for a thing ſo far off? was it not the revelation of Chriſt to their Soules, or to ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h purpoſe was his Anſwer.</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Had not thoſe <hi>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſalen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>evelation of chriſt to their Soules, as to the knowledge of him before they turned from their dumb Idols to ſerve the living God.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Nay they had not the revelation of Chriſt then before they turned from dumb Idols, but they waited for it.</p>
+               <pb n="12" facs="tcp:37373:8"/>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>What was it turned them to God then, was not that a frutie of the Goſple coming to them, and doth nor the Goſpel reveale Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Yea, there is a meaſure of the knowledg of Chriſt, which if they be obedient they ſhall have more, as they that obtained like precious Faith with the Apoſtles, that had the ſure word of pro<g ref="char:EOLhyphen"/>pheſy as a light ſhining in a dark place, did well to take heed to it, tell the day dawned, and the day Starr aroſe in the heart, when that dawned and aroſe that was the coming of the day of the Lord. to ſuch purpoſe was his anſwer, but with more circumſtances.</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Had not the beleivers, and cheifly the Apoſtles, beare that further meaſure of light, and revelation of Chriſt, when they thus wrote, or what is that to the purpoſe of this coming ſpoken in the Text, is that with the voice of the Archang<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l and the Trump of God, and the dead in Chriſt all raiſed then, and thoſe a ſleepe changed, [that is to one now, and to another then; and thoſe that are in a living frame, may prevent thoſe that are in a ſleepy poſture, ſuch as the Apoſtle warns us not to be in. Therfore thats nothing to the purpoſe.] the <hi>Theſſalonians</hi> had ſomething of that ſpi<g ref="char:EOLhyphen"/>ritual revelation of Chriſt, as the c<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſe of their turning <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to ſerve the living God.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>There <hi>George <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n into a long circuling <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing the ſame over and over againe, the ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of which ſo f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r as I could perceive was <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> d<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>ent meaſures of the reve<g ref="char:EOLhyphen"/>lation of the knowledge of Chriſt, and that they that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the leaſt, ſhould have more to the perfect day.</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Hears nothing but the ſame things over and over. But did the Apoſtles receive the full revelation of Chriſt in the time of their live.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>You ask whither <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> all the glory they ſhould have before death. Or whither they ſhould have no more glory after death.</p>
+            </sp>
+            <sp>
+               <speaker>T. M.</speaker>
+               <p>Nay, we ask about th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> glorious coming of Chriſt, in which the dead ſhall be raiſed; had they that before they dyed, is there no other coming of Chriſt in glory for them, and us to ſee, then what they had, or ſee while they lived.</p>
+               <p>Here he wrangled a little about the queſtion, and anſwered nothing to purpoſe, but that they had greater meaſure before they died, but as if they might have more glory after.</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Its evident that the Apoſtle <hi>Paul</hi> did not remaine to that coming of the Lord there ſpok<g ref="char:EOLhyphen"/>en of, that I ſhall prove.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>How do you prove it.</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Becauſe he diad and is dead, wheras had he remained to that coming of the Lord, he ſhould only have bin changed, and caught up into the aire. I appeale to all the people whither my charge be not herein made good againſt thee.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Nay, it is not.</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Thou, nor I muſt not be judges in our own cauſes, let the people judge.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Nay, that of God in the people muſt be judge.</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>I appeale to that of God in them all, whither the coming of Chriſt there ſpoken of be over and paſt while the Apoſtles lived, are the dead in Chriſt raiſed, the living changed, all toge<g ref="char:EOLhyphen"/>ther caught up into the aire to meete the Lord, &amp;c</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Would needs read ſomething out of <hi>J.H.</hi> book, being not able to make good his ſaying which <hi>J. H.</hi> charged, as contrary to the Apoſtles Doctrine about the coming of Chriſt. And be<g ref="char:EOLhyphen"/>gan to read ſomething of <hi>John Horn</hi>'s granting and bewayling the too much of that of the Prophet <hi>Iſaiah</hi> 56.10. was too true of to many Miniſters of <hi>England,</hi> as that his watch-men are blind, they are dumb doggs, which he going about to turne upon <hi>I. H.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>Replyeds Nay <hi>George</hi> thou doſt not finde us dumb doggs, we are made able bleſſed be God to worry thee thou ſeeſt, and put thee to the worſt.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>He is in the nature of a dog it ſeemes then, wheras Chriſt ſent not out his Apoſtles a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dogs,
+<note place="margin">the Lyonis ſaid vorare of which the word worry comes.</note> but as lambs amongſt wolves.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>But the Lamb of God is a Lyon too <hi>George</hi> (and maks <hi>Iſrael</hi> a Lyon too as in <hi>Gen</hi> 49 9. as a Lyon amongſt the beaſts of the Forreſt, (as <hi>Mica.</hi> 5.8, 9 and its in his ſtrength and power, that we are inabled to teare and worry thee, for all thy great brags.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>And ſome others of his Friends laughing at the <hi>Quakers,</hi> and at <hi>G. W.</hi> to ſee ſome of his confuſion in ſome paſſage.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Thou art in <hi>Iſhmaels</hi> nature, or we may ſee <hi>Iſhmael</hi> in you, or to ſuch purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>Nay, 'tis <hi>Iſaac</hi>'s nature, <hi>Iſaac</hi> had his name of laughter; and it is ſaid the righteous ſhall ſee them, and laugh them to ſcorne, And we rejoice to ſee the Lord ſtrengthen us to baffle you, and to make manifeſt your folly, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Art thou righteous then.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>Why not, compleatly righteous in Chriſt, though in my ſelf I acknowledg ſin.</p>
+               <pb n="13" facs="tcp:37373:8"/>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>See how he contradicts himſelf, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be compleat in Chriſt, and yet have ſin in him.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>Though that be out of our way, and from the buſineſſe in hand, yet I ſhall prove that thoſe two will ſtand to<g ref="char:EOLhyphen"/>gether. The Apoſtle ſays <hi>Coloſſ.</hi> 2.10. <hi>In him yee are compleat,</hi> and yet in the ſame Epiſtle, to the ſame people he ſays Chap, 3.5. <hi>Mortifie theſe therfore, your members that be upon Earth, fornication, uncleanneſſe,</hi> &amp;c. If theſe were not in them, how could they be called their members upon Earth? [and why ſhould they be bid to mortifie them, if they had no life in them too]</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>The Apoſtle ſayes of thoſe that were compleat in Chriſt, <hi>In whome alſo yee are circumciſed with the circum<g ref="char:EOLhyphen"/>ciſion made without hands, the putting off the the body of the ſins of the fleſh.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>He doth ſo, and yet bids them Chap. 3.8. <hi>Put of all thoſe things ſtill, anger, wrath, malice,</hi> &amp;c. [They had put them off as to their purpoſe and bent of heart, and yet had need to put them off in their dayly practic, and converſation.]</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>The Apoſtles writing to the Churches writ to diverſe States. Some of them were compleat in Chriſt, and o<g ref="char:EOLhyphen"/>thers were not, but had their members to mortifie, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>The Apoſtle makes no ſuch diſtinction, he ſays not ſome of you are compleat in Chriſt, but ſays it without limi<g ref="char:EOLhyphen"/>tation to ſome, <hi>in him yee are compleat;</hi> and ſo he gives the other counſell to all of them [yea, he gives it upon ſuppo<g ref="char:EOLhyphen"/>ſition of their being raiſed with Chriſt, and are not thoſe that riſen with Chriſt compleat in Chriſt? <hi>Col.</hi> 3.1, 5.] what do you think that the Apoſtle writ one Chapter to one part of the people, and another Chapter to another?</p>
+               <p>After this, returning to the buſineſſe of Chriſts coming to raiſe the dead being paſt before the Apoſtles dyed, and nothing further being anſwered to it, but that <hi>Paul</hi> ſpake of a ſpiritual coming to mens ſpirits, we ſlid upon that of 1 <hi>Kings.</hi> 8 46. <hi>I known how that there is no man that ſinneth not.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Wilt thou affirme that of all men living now.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>Nay, firſt, wilt thou grant it of all men living, let us agree firſt of what was then, and then come to the times now.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>I ſay no man that was in that State ſinned.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>The word are, <hi>there is no man that ſinneth not.</hi> There is no mention of any State in ſome, in which all ſinned, diſtinct from ſome other ſtate in which ſome men firmed not.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>It is ſaid if they ſin, <hi>for there is no man that ſinneth not.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>It is abſolutely ſaid, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the reaſon why <hi>Iſrael</hi> might be ſuppoſed to ſin, <hi>that theres no man that ſinneth not</hi>
+               </p>
+               <p>
+                  <hi>I, M.</hi> It is not ſaid if they ſin, then thereis no man that ſins not, but, <hi>for theres no man that ſinneth not.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>Theres no man in that State.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>Theres no limitation to any ſtate, <hi>but there is no man that ſinneth not.</hi> Ah <hi>George</hi> doſt thou go up and down prea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing to men to look to the light, and doſt thou deſpute; and plead againſt the light in thee, doſt thou not ſee the Scripture is againſt thee.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>There is no man in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> that ſinneth not.</p>
+               <p>
+                  <hi>I, H.</hi> Is there any man in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, that is not a man, if he be a man he ſinneth, <hi>for there is no man that ſin<g ref="char:EOLhyphen"/>neth not.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>All in that ſtate ſin. But <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thou ſay, <hi>there is no man now that ſinneth not.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> is no into living <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> not, or hath not ſin in him now, Jeſus Chriſt excepted.</p>
+            </sp>
+            <sp>
+               <speaker>G. W.</speaker>
+               <p>then there is a <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſinneth not. Then its not true of all men.</p>
+            </sp>
+            <sp>
+               <speaker>I. H.</speaker>
+               <p>Jeſus Chriſt is <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>,</hi> God with us, God-man, and ſo more then a man.</p>
+            </sp>
+            <sp>
+               <speaker>T. M.</speaker>
+               <p>
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Chriſt is included in the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſinned againſt. If they ſin againſt thee. He is that one, and only man that good becauſe he is God; and therfore he muſt needs be excepted.</p>
+            </sp>
+            <p>To <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> was the diſcourſe between <hi>I. H.</hi> and <hi>G. W.</hi> We have here given the ſubſtance, and ſcope, if not alſo the very <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Anſwers, and the very words, and forme, ſo much as could be remembred. After which the Church-<gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>M. H.</hi> with other Friends ſeeing <hi>I. H.</hi> much ſpent with ſpeaking ſo long, and ſo much, and fearing he might <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> therin, deſired him to give the people ſome ſhort exhortation and conclude.</p>
+            <p>Accordingly <hi>I. H.</hi> minded the people of what had hin proved againſt them, and warned the people to take heed of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and tamper<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with them, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they became an <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> too, and ſhould be given up of God to beleive deluſions to their own deſtruction. And ſo deſired them to withdraw, and they begining to depart, he alſo being <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and much ſpent withdrew, and the whole company diſperſed to their ſeveral wayes, ſeeming generall well ſatiſ<g ref="char:EOLhyphen"/>fied againſt the <hi>Quakers,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the no ſmall trouble of the <hi>Quakers:</hi> as might be conceived from their coming diverſe of them in the Lords day after with <hi>G. W.</hi> to the Congregation, to have made ſome diſturbance upon the people, or to indeavoure to have been drawing a way ſome of them. But God mercifully prevented them of their purpoſe.] Only they ſat and heard diverſe of their corrupt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, further diſproved from that in 1. <hi>Sam.</hi> 2.2. <hi>There is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> holy as the Lord.</hi> And amongſt other things <hi>I. H.</hi> to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſion in ſpeaking to the holineſſe of Gods Name, to ſhew <hi>G. W.</hi> groſſe Jeſuitical gloſſe, upon <hi>Pſal.</hi> 103.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> there was no ſin in <hi>David,</hi> becauſe then all within him could not <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God. Shewing that not only <hi>David</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of or owned that he had ſin for God to forgive, but alſo that the words in the Hebrew and La<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne ſignifies only all my inwards, or inward parts, of which ſin can be none, though it bee in a man, yet its none of the inwards of a man, no part of the man. But with ſuch <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deceitfull inference, and ar<g ref="char:EOLhyphen"/>guments, they delude ſimple people, that fall down and worſhip them as holy men; and Prophets, and either <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not able, or not willing to examine, and try what is ſaid by them, and indeed that is one thing that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> them ſuch as men ought to reware of, as very dangerous perſons to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, that they are ſo <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> with what ſopheſtry and deceit, they abuſe the over credu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> people, ſo they may but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them, and draw them after them All people avoid, and take <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of them. <hi>Beware of falſe Prophur that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> clothing, but inwardly are <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>avenous Wo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ves.</hi> By ſuch like frates as corrupting <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from the faith of hope in Chriſt, and their deceitfull wayes, yee may know them.</p>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:37373:9"/>
+            <head>POSTSCRIPT.</head>
+            <p>OUr Lord Jeſus teaching his Diſciples to pray to God as their Father, and in the firſt place to breath and de<g ref="char:EOLhyphen"/>ſire the hallowing <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſying of Gods Name, the coming of his Kingd<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m, and that this will might be done in earth as it is in heave<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yet <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing them <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>giveneſs of their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſpaſſes, doth he not ſtrong<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and plainly i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ply that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> are the hildren of G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and ſo born of God, and th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have their hearts through his grace ſet <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the curing of his Kingdom, and the d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing of his w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll, have ſins and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> againſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for give <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s. If it be replyed, Yea while <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ule children, and but deſiving th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e things they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> (<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>G. W.</hi> ſays the little children to whom John writes that they ſhould not ſin, might <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> they in wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is name is hallowed the kin! me come, and the will done in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in heaven, they have <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. Then I to that ſay, 1. Are <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the little <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hildren that know the Father and call God Father th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Chriſts teaching, born of God, and thea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever is born of God is <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t! <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, or in any thing to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſend, how c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> children to be excepted, and if they though <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> have ſins and deſp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſes to pray <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in Scriptive have we <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, that others <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, and ſo any of them may not in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſenſe too have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>. I<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that any are ſo perfectly born <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to have his Name ſo hall reed to and in them, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> me to come, and will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, as they may be no <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more per<g ref="char:EOLhyphen"/>fectly <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>? Or is it <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> teaches that to pray, till his Nan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> everywhere hal<g ref="char:EOLhyphen"/>lowed, his kingdom <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and will perfectly done every where, even in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, as in heaven, which is not in this w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld. But <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for daily bread, or as the w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d may be end<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> neceſſary for bread, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of them, and that before <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; Doth he <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> men have need of bread for their life, and ſubſiſtence here they have a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> need to pray for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> if then the Quakers ſo called, wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y they have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſin in them, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et them <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and we may then it may be think there is ground to beleeve them that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he name of God <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſo come, and his will ſo done in them, that they have <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> paſſes; Note, VVh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, &amp;c. 1. VVhoſoever is perfectly born of God, as the ſpirits if juſt men made perfect (that is) de caſed, they cannot ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, nor the men when their ſpirits and bodies ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> rea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>te<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, but none are ſo <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> born of God here. 2. So far as ary man is born of God he ſins not, or commits not ſin, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> can. 2. VVh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever believeth with his heart that Jeſus is the Chriſt, doth not, nor can, together with the exerciſe of that ſaith, walk in <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> way of ſin, and ſo willingly do iniquity and ſin, nor ſhall miſs of his end.</p>
+            <p>
+               <hi>Note,</hi> VVhereas <hi>G. W.</hi> with ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of his party coming on the Lords <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y into the Congregation after Sermon offered to ſpeak; to which he was permitted<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y <hi>I.H.</hi> as conceiving he might have ſomthing to ſay in defence of him<g ref="char:EOLhyphen"/>ſelf (which the ſaid <hi>J. H.</hi> was willing to have anſwered him in, had it been ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) but <hi>G. W.</hi> was <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſuffered by ſome that had power in that place. And whereas the ſaid <hi>I. H.</hi> ſince <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> informed that <hi>G. W.</hi> ſaid to the pe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that he the ſaid <hi>George</hi> had nothing to ſay to the ſaid <hi>J. H.</hi> but only a VVord from the Lord to the people; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome of his party rail and reviſe at the people for not ſuffering him to ſpeak it, or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> hearing of it, caſting that as a reproach upon the Miniſtry: <hi>J.H.</hi> doth declare that he judges it well done of thoſe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to ſuffer the ſaid <hi>G. W.</hi> to utter his pretended word from the Lord, &amp; that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> as well <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the people<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> hear it; not ſhould <hi>J. H.</hi> willingly have permitted him to ſpeak to the people any <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> VV<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rd, unleſs he had firſt acknow<g ref="char:EOLhyphen"/>ledged that he had been formerly and hitherto in a deceit, and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of it. For <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> been but two days before proved a Deceiver, and ſuch a one as people <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, had he been permitted to ſpeak in ſuch a way of Doctrine to the people; he might well have ſaid that we went contrary to our principles in ſuf<g ref="char:EOLhyphen"/>fering him to ſpeak, and the people to hear him wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m ſo little a time <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> had charged to be ſuch a one as ought not to be heard, and ſhould people beleeve that God will ſend any VVord by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a man <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a Deceiver, and they ſhould count accurſed, unleſs to convince him of, and ſo to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him a knowledg the evil of his former way, be<g ref="char:EOLhyphen"/>ing thereof convinced; we ſhall do evil therefore if hereafter we any of us per<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t him to ſpeak (and much more) if we hear and liſten to him or any of them in ſuch way of Doctrine.</p>
+            <p>Be ſtill all people and wait upon God, mind his Goſpel, and believe and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bey it, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be ſaved, but as for this people the Quakers unleſs they ſee and turn from their evil w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, Gods hand will be againſt them, though they he proud at <hi>Moab,</hi> their lies ſhall not be ſo, they ſhall not proſper, their <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> rottenneſs, and ſhall be dryed up, and periſh, their corruption and folly is ſeen and made manifeſt in good <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and ſhall be more, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſeaſon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> For the King (Chriſt) ſhall rejoyce and God, and every one that <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> confeſſeth) him ſhall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mouth of them that ſpeak lies ſhall be ſtopped, <hi>Pſal 63.10.</hi> every word of God is pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and ſhall be performed <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> its ſeaſon: Let them alone (neither abuſe them with incivilities, nor liſten to their corrupt ſayings) <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> blinde leaders of the blinde, and both they that lead, and they that are led by them ſhall fall into the dit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h, <hi>Mar. 15.14.</hi> Depart I pray you from the tents or ſocieties of theſe wicked men, and touch nothing of theirs <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nothing to do with their ſayings and witneſſings) leaſt ye be conſumed in all their ſins, <hi>Numb. 14.16.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
